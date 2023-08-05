@@ -1,3 +1,8 @@
+
+We hope this message finds you well. We are writing to inform you about an important change regarding the repository 
+As part of this migration, **ChitChat** will be archived and will no longer be actively maintained. However, you will still be able to access and refer to the code and resources in the archived repository.
+
+This repository now become as a member of [SriMani-7/java-jungle](https://github.com/SriMani-7/java-jungle).
 # ChitChat - Let's explore programming
 
 ![ChitChat banner](arts/project-banner.png)
